@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrador", "Integrador\Integrador.csproj", "{31267DD2-7D74-4D90-AF9C-8B73505F0BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{D3181C96-C52E-40DD-9EFD-1735DFC6CEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31267DD2-7D74-4D90-AF9C-8B73505F0BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31267DD2-7D74-4D90-AF9C-8B73505F0BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31267DD2-7D74-4D90-AF9C-8B73505F0BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31267DD2-7D74-4D90-AF9C-8B73505F0BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3181C96-C52E-40DD-9EFD-1735DFC6CEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3181C96-C52E-40DD-9EFD-1735DFC6CEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3181C96-C52E-40DD-9EFD-1735DFC6CEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3181C96-C52E-40DD-9EFD-1735DFC6CEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D642381C-2998-42D5-A7F6-67113545300B}
+	EndGlobalSection
+EndGlobal
